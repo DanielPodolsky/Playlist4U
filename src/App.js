@@ -4,7 +4,7 @@ import SearchBar from "./components/SearchBar";
 import Header from "./components/Header";
 import SearchResults from "./components/SearchResults";
 
-const CLIENT_ID = "c16a163a17d34939aabb8111eb28f274"; // no problem
+const CLIENT_ID = "FILL HERE YOURS";
 const redirectUri = "http://localhost:3000/";
 
 function App() {
