@@ -1,4 +1,4 @@
-<h1 align="center">Playlist Bro</h3>
+<h1 align="center">Playlist4U</h3>
 
 <p align="center">
   Spotify playlist generator using React and Spotify's API
