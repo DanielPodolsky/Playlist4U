@@ -21,4 +21,13 @@
 
 ## Showcase
 
-![PlaylistBroShowcase](https://github.com/Lambodol76/Codecademy-Projects/assets/78098754/77461255-2086-45fc-85ed-4b25f85fe7b2)
+<!-- ![PlaylistBroShowcase](https://github.com/Lambodol76/Codecademy-Projects/assets/78098754/77461255-2086-45fc-85ed-4b25f85fe7b2) -->
+
+
+
+
+
+https://github.com/DanielPodolsky/Playlist4U/assets/78098754/c71a4ec7-2a2b-4798-84b0-c1049d6613cc
+
+
+
